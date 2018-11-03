@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "882750437544",
+    "firebase_url": "https://smart-bin-216520.firebaseio.com",
+    "project_id": "smart-bin-216520",
+    "storage_bucket": "smart-bin-216520.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882750437544:android:d1ab573bc0d26d31",
+        "android_client_info": {
+          "package_name": "dz.cdta.smartbin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882750437544-pk63vkhvg3hcnf0v5dus93j255o3go3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqyzG0f568eiWqygnq2kOnqZs9hdiS5D4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
